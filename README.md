@@ -36,6 +36,10 @@ Follow the on-screen instructions to input targets and customize scan options.
 
 ![Alt text](nmapScanner/images/main1.png)
 ![Alt text](nmapScanner/images/main2.png)
+```bash
+ip addr is an example target ip addr from nmap site.
+```
+
 
 ## Contributing
 
